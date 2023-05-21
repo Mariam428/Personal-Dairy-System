@@ -15,4 +15,8 @@ The Personal Diary Application is a user-friendly and free planner designed to s
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio"/>
   </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=dotnet"/>
+    </a>
+
 </p>
